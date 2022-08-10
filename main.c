@@ -13,5 +13,6 @@ int main()
 
     printf("firstVarible: %s\n", firstVariable);
     printf("number: %d\n", number);
+
     return 0;
 }
